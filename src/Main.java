@@ -50,7 +50,7 @@ public class Main {
                     throw new IllegalArgumentException("Invalid input parameters");
                 }
             } catch (RuntimeException e) {
-                throw new IllegalArgumentException("It's");
+                throw new IllegalArgumentException("Invalid input parameters");
             }
         }
     }
